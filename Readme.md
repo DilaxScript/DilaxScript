@@ -190,7 +190,7 @@ const dilax = {
 <p align="center">
   <a href="mailto:itsme.dilax.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-itsme.dilax.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
   <a href="https://www.linkedin.com/in/its-me-dilax/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
+  <a href="https://dilaxlabs.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/></a>
 </p>
 
 <p align="center">
