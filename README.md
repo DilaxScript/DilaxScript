@@ -61,34 +61,44 @@ const dilax = {
 <!-- ===================== TECH STACK ===================== -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center">🔙 Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,php,js,ts,html,css,mysql,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,fastapi,django,laravel,nodejs,express" />
 </p>
 
-<h3 align="center">⚡ Frameworks & Libraries</h3>
+<h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,laravel,react,nodejs,express,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
 </p>
 
-<h3 align="center">🧰 DevOps & Tools</h3>
+<h3 align="center">🗄️ Database</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,redis,postman,vscode,vim,nginx,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=mysql,redis" />
 </p>
 
-<h3 align="center">🛡️ Cybersecurity & DevSecOps</h3>
+<h3 align="center">☁️ Cloud & Hosting</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Falco-00AEC7?style=for-the-badge&logo=falco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CIS_Benchmarks-E00000?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,nginx" />
+</p>
+
+<h3 align="center">⚙️ DevOps & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,bash,postman,vscode,vim" />
+</p>
+
+<h3 align="center">🛡️ Security & DevSecOps</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Authentication-0A66C2?style=for-the-badge&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Secure_Coding-4B0082?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API_Design-FF6B00?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white"/>
   <img src="https://img.shields.io/badge/Container_Security-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/CVE_Scanning-CC0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
   <img src="https://img.shields.io/badge/SOC_Operations-0A0A23?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Secure_SDLC-4B0082?style=for-the-badge&logo=shield&logoColor=white"/>
 </p>
-
 <h3 align="center">🧠 Soft Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Problem_Solving-FF6B6B?style=for-the-badge"/>
@@ -99,17 +109,35 @@ const dilax = {
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/DilaxScript/SecureShield">
-    <img src="https://github.com/DilaxScript/SecureShield/blob/ad6b56fbdef42381598dcd1648c9758f8fe47a9b/image/dashboard.png"/>
-  </a>
-  <a href="https://github.com/DilaxScript/ERP-System">
-    <img src="https://github.com/DilaxScript/ERP-System/blob/e4f4c9519d34543fb90ec2c50f6d94fc41f160f6/image/admin.png"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/DilaxScript/SecureShield">
+        <img src="https://github.com/DilaxScript/SecureShield/blob/ad6b56fbdef42381598dcd1648c9758f8fe47a9b/image/dashboard.png" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/DilaxScript/ERP-System">
+        <img src="https://github.com/DilaxScript/ERP-System/blob/e4f4c9519d34543fb90ec2c50f6d94fc41f160f6/image/admin.png" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/DilaxScript/CodeAlpha_EcommerceStore_F">
+        <img src="https://github.com/DilaxScript/CodeAlpha_EcommerceStore_F/blob/d18c183a159291ae8e6faa60126540b1a19450a5/without%20login.png" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/DilaxScript/task-dashboard">
+        <img src="https://github.com/DilaxScript/task-dashboard/blob/badd9f3bd23ff6052e519c1fcdff516b19bea168/Screenshot_2026-07-05_09_28_04.png" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   🔗 Explore all my projects → <a href="https://github.com/DilaxScript?tab=repositories"><b>github.com/DilaxScript</b></a>
